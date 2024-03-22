@@ -1,0 +1,100 @@
+[
+    {
+      "Time": "Mon 9:15 AM - 12:05 PM",
+      "Course": "BAN520",
+      "Title": "Visual Analytics for Dashboards",
+      "Instructor": "Mr. A. Khan",
+      "Classroom": "Online(B)"
+    },
+    {
+      "Time": "Mon 9:15 AM - 12:05 PM",
+      "Course": "CE450",
+      "Title": "Fundamentals of Embedded Engineering",
+      "Instructor": "Mr. A. Yang",
+      "Classroom": "SFBU - Computer Lab 101"
+    },
+    {
+      "Time": "Mon 9:15 AM - 12:05 PM",
+      "Course": "FIN501(A)",
+      "Title": "Financial Management",
+      "Instructor": "Mr. M. Aquilina",
+      "Classroom": "SFBU - Classroom 201"
+    },
+    {
+      "Time": "Mon 9:15 AM - 12:05 PM",
+      "Course": "HU280",
+      "Title": "Principles of Ethics",
+      "Instructor": "Mr. M. Leinhos",
+      "Classroom": "SFBU - Classroom 203"
+    },
+    {
+      "Time": "Mon 12:15 PM - 2:05 PM",
+      "Course": "CE450L Lab",
+      "Title": "Embedded Engineering Lab",
+      "Instructor": "Mr. A. Yang",
+      "Classroom": "SFBU - Computer Lab 101"
+    },
+    {
+      "Time": "Mon 12:15 PM - 3:05 PM",
+      "Course": "ENGL101(A)",
+      "Title": "Expository Writing",
+      "Instructor": "Ms. J. O Connor",
+      "Classroom": "SFBU - Classroom 201"
+    },
+    {
+      "Time": "Mon 12:15 PM - 3:05 PM",
+      "Course": "MGT530(A)",
+      "Title": "Logistics and Operations Management",
+      "Instructor": "Mr. S. Kelman",
+      "Classroom": "SFBU - Classroom 203"
+    },
+    {
+      "Time": "Mon 2:15 PM - 5:05 PM",
+      "Course": "CS548",
+      "Title": "Web Services Techniques and REST Technologies",
+      "Instructor": "Mr. P. Shahi Thakuri",
+      "Classroom": "Online"
+    },
+    {
+      "Time": "Mon 3:15 PM - 6:05 PM",
+      "Course": "BUS595(A)",
+      "Title": "Business Capstone Course",
+      "Instructor": "Dr. N. Tehrani",
+      "Classroom": "SFBU - Classroom 201"
+    },
+    {
+      "Time": "Mon 3:15 PM - 6:05 PM",
+      "Course": "MGT530(B)",
+      "Title": "Logistics and Operations Management",
+      "Instructor": "Mr. S. Kelman",
+      "Classroom": "SFBU - Classroom 203"
+    },
+    {
+      "Time": "Mon 6:15 PM - 9:05 PM",
+      "Course": "CS380",
+      "Title": "Operating Systems",
+      "Instructor": "Dr. S. Abdigarmestani",
+      "Classroom": "SFBU - Classroom 203"
+    },
+    {
+      "Time": "Mon 6:15 PM - 9:05 PM",
+      "Course": "CS485",
+      "Title": "JavaScript and Internet Programming",
+      "Instructor": "Mr. D. Dabish",
+      "Classroom": "Online"
+    },
+    {
+      "Time": "Mon 6:15 PM - 9:05 PM",
+      "Course": "CS531",
+      "Title": "Python Applications Programming",
+      "Instructor": "Dr. L. Zheng",
+      "Classroom": "SFBU - Classroom 210"
+    },
+    {
+      "Time": "Mon 6:15 PM - 9:05 PM",
+      "Course": "MGT450",
+      "Title": "Organizational Behavior and Management",
+      "Instructor": "Mr. R. Steinberg",
+      "Classroom": "SFBU - Classroom 201"
+    }
+  ]
